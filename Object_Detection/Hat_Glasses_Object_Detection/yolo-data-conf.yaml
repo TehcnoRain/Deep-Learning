@@ -1,0 +1,14 @@
+# path to dataset
+path: C:/Users/shane/object-detect-main/data_models
+train: images/train
+val: images/val
+test: images/test
+
+# number of classes
+#nc: 2
+
+# class names
+#names: ['hat', 'glass']
+names:
+  0: hat
+  1: glass
