@@ -1,0 +1,12 @@
+names:
+- raccoon
+nc: 1
+roboflow:
+  license: MIT
+  project: raccoon
+  url: https://universe.roboflow.com/roboflow-gw7yv/raccoon/dataset/38
+  version: 38
+  workspace: roboflow-gw7yv
+train: C:/Users/shane/object-detect-main - Copy/Raccoon-38/train/images
+val: C:/Users/shane/object-detect-main - Copy/Raccoon-38/valid/images
+test: C:/Users/shane/object-detect-main - Copy/Raccoon-38/test/images
